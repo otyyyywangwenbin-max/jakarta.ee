@@ -191,3 +191,4 @@ enableInlineShortcodes = true
     url = "/resources#friends"
     parent = "Resources"
     weight = 19
+
